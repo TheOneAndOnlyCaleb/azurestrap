@@ -6,8 +6,7 @@
 > This repository was created after losing access to a previous GitHub account.
 
 <p align="center">
-    <img src="https://github.com/RealMeddsam/Froststrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="700">
-    <img src="https://github.com/RealMeddsam/Froststrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="700">
+
 </p>
 
 <div align="center">
