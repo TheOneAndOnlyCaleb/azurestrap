@@ -9,7 +9,7 @@
 - [MidasKira](https://github.com/midaskira)
 - [Caleb](https://github.com/TheOneAndOnlyCaleb) 
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🔭 I’m currently working on [Azurestrap](https://github.com/TheOneAndOnlyCaleb/Azure-strap-1.1)
 
